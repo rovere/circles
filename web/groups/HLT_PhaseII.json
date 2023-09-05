@@ -684,6 +684,7 @@
   "TrackstersProducer|ticlTrackstersEM" : "HGCal|TICL",
   "TrackstersProducer|ticlTrackstersHAD" : "HGCal|TICL",
   "TrackstersMergeProducerV3|ticlTrackstersMerge" : "HGCal|TICL",
+  "TrackstersMergeProducer|ticlTrackstersMerge" : "HGCal|TICL",
   "TrackstersProducer|ticlTrackstersTrk" : "HGCal|TICL",
   "TrackstersProducer|ticlTrackstersTrkEM" : "HGCal|TICL",
   "CaloTowersCreator|towerMaker" : "Jets/MET",
