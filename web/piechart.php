@@ -717,8 +717,6 @@
       
       // load the colour scheme
       loadJsonInto(current, "colours", "colours/" + config.colours + ".json", function(){});
-      
-      // load the available datasets, and the resources actually available from the dataset
       loadAvailableDatasets();
       
       // load the available groups and colours
